@@ -1,0 +1,39 @@
+# Node.js (server)
+server/node_modules/
+server/dist/
+server/.env
+server/.DS_Store
+server/npm-debug.log*
+server/yarn-error.log*
+server/.output/
+server/package-lock.json # (optional, if using yarn, keep it)
+
+# React (client)
+client/node_modules/
+client/build/
+client/.env
+client/.DS_Store
+client/npm-debug.log*
+client/yarn-error.log*
+client/.output/
+client/package-lock.json # (optional)
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor/OS Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Git-related
+.git/
+
